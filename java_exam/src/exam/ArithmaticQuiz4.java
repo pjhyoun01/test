@@ -9,7 +9,7 @@ public class ArithmaticQuiz4 {
 
 		int totalScore = 0;
 		double average = 0;
-		double score = 0;
+		double score = 0;   
 
 		totalScore = subjectA + subjectB + subjectC + subjectD;
 		average = totalScore / 4d;
